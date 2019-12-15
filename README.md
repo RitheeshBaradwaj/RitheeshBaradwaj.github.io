@@ -1,6 +1,6 @@
-Hai
+Hello mate!
 This is my personal resume website.
-Check this to know about me.
+Visit http://ritheeshbaradwaj.github.io to know about me.
 
 
 
